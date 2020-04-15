@@ -1,0 +1,6 @@
+income, 10, deposit, 2020-03-20 00:00:00
+expense, 10, deposit, 2020-03-10 00:00:00
+transfer, 10, accountA, accountB, 2020-03-01 00:00:00
+expense, 14, food, 2020-03-30 00:00:00
+income, 30, work, 2020-04-01 00:00:00
+expoense, 12, car, 2020-04-10 00:00:00
